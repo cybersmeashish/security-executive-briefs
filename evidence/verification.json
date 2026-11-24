@@ -1,0 +1,40 @@
+{
+  "executed_at_utc": "2026-11-24T06:56:12.625983+00:00",
+  "runtime": {
+    "python": "3.12.16",
+    "system": "Linux",
+    "machine": "aarch64"
+  },
+  "unique_regression_tests": 0,
+  "source_manifest_files": 15,
+  "local_links_checked": 10,
+  "isolation": {
+    "requested": true,
+    "probe": "blocked",
+    "errno": 101,
+    "exception": "OSError",
+    "interfaces": [
+      "lo"
+    ],
+    "default_ipv4_route": false,
+    "root_read_only": true,
+    "workspace_read_only": true,
+    "uid": 1000
+  },
+  "contribution": {
+    "slug": "security-executive-briefs",
+    "area": "Executive communication",
+    "title": "Fund authorization freshness before expanding AI retrieval",
+    "contribution": "contributions/001-authorization-investment.md",
+    "stage": "Original executive decision brief linked to bounded lab evidence; no client outcomes",
+    "topics": [
+      "vciso",
+      "security-leadership",
+      "risk-management",
+      "ai-governance"
+    ],
+    "description": "Executive communication: Fund authorization freshness before expanding AI retrieval. Original executive decision brief linked to bounded lab evidence; no client outcomes."
+  },
+  "experiment_scope": "executive document and linked owned-lab source-evidence review only; no financial/customer outcomes or new technical experiment",
+  "stage": "local contribution evidence; no customer or vendor outcome claim"
+}

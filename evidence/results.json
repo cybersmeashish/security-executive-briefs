@@ -1,0 +1,8 @@
+{
+  "scope": "executive document and linked owned-lab source-evidence review only; no financial/customer outcomes or new technical experiment",
+  "document_words": 446,
+  "linked_lab_case_count": 8,
+  "source_scope": "deliberately flawed owned synthetic function and deterministic state transitions; no real vendor finding",
+  "production_ROI_measured": false,
+  "new_regression_tests_expected": 0
+}

@@ -1,0 +1,17 @@
+{
+  ".gitignore": "c5da61d8697ccd4dad4014069b94ed2a9cd5765cd0ea80676f5eda3548d32225",
+  "AGENTS.md": "301883580022383f085afa7d5b3ce6b63bfc013fc1f5a469c43f0b239a595a89",
+  "CITATION.cff": "79b51146c694c122c8d632ae6540445207e2af085973cc26cef4692541815eab",
+  "CONTRIBUTING.md": "74c4b771625c1b0712702cc9641f2e6a571b065cceaad28b11e80afe71044fb9",
+  "CONTRIBUTIONS.md": "e46fe87ea1f5dd360c68951a9bcc55e51e432eb442eb9a30c43f586c30c53cbc",
+  "LICENSE": "4df23e737915f9b62c5430b633e6b74104f5c9f9f154cc93e9fe89318f84b5b0",
+  "README.md": "c7d6e355442ed61b4f46c4d2663d408c389ef048da109e72e053fa169caad2ee",
+  "SECURITY.md": "25e8da3dd7d659597d57199598ad955a03107b26d33c8e05ebb318816e0a02bd",
+  "contributions/001-authorization-investment.md": "79e592ff686e064f0d9520e134f50f8e9f4b9ab9a36cb7fe6430f6b6ebdaf079",
+  "fixtures/contribution.json": "f7abdfb549d15fecce5cbcab94f507fef7ee5f3ab3efc3a0fdb2192f893b3376",
+  "fixtures/source-evidence.json": "5d769ab45784c5f1e916f48239adf1489ff45922aefda3361ae2249166e830f9",
+  "templates/decision-brief.md": "382f756d18b66f862280948aea49f6785a9eb84d3dfcb1839cb981ad3da29a72",
+  "tools/README.md": "26d86c10b95d20ff514baccb660524611edd76712c278959759aeca587bb7213",
+  "tools/experiment.py": "9510ac599b984767f18122ad382852591ab622fea25e9a559566142d5df7200b",
+  "tools/verify.py": "befa930dd988f221c071e0fb63714bd512bc0aa559e49d06a79dccf88eb922c7"
+}

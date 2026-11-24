@@ -1,0 +1,67 @@
+{
+  "scope": "deliberately flawed owned synthetic function and deterministic state transitions; no real vendor finding",
+  "cases": 8,
+  "baseline_unsafe_allows": 6,
+  "corrected_unsafe_allows": 0,
+  "rows": [
+    {
+      "case": "valid",
+      "expected_allow": true,
+      "baseline_allow": true,
+      "corrected_allow": true,
+      "baseline_unsafe_allow": false
+    },
+    {
+      "case": "revoked_epoch",
+      "expected_allow": false,
+      "baseline_allow": true,
+      "corrected_allow": false,
+      "baseline_unsafe_allow": true
+    },
+    {
+      "case": "case_reassigned",
+      "expected_allow": false,
+      "baseline_allow": true,
+      "corrected_allow": false,
+      "baseline_unsafe_allow": true
+    },
+    {
+      "case": "grant_expired",
+      "expected_allow": false,
+      "baseline_allow": true,
+      "corrected_allow": false,
+      "baseline_unsafe_allow": true
+    },
+    {
+      "case": "unverified_subject",
+      "expected_allow": false,
+      "baseline_allow": true,
+      "corrected_allow": false,
+      "baseline_unsafe_allow": true
+    },
+    {
+      "case": "cross_case_ticket",
+      "expected_allow": false,
+      "baseline_allow": true,
+      "corrected_allow": false,
+      "baseline_unsafe_allow": true
+    },
+    {
+      "case": "fresh_reauthorisation",
+      "expected_allow": true,
+      "baseline_allow": true,
+      "corrected_allow": true,
+      "baseline_unsafe_allow": false
+    },
+    {
+      "case": "document_deleted",
+      "expected_allow": false,
+      "baseline_allow": true,
+      "corrected_allow": false,
+      "baseline_unsafe_allow": true
+    }
+  ],
+  "CVE": "none assigned or claimed",
+  "source_repository": "https://github.com/cybersmeashish/vulnerability-research-and-disclosures",
+  "source_verified_tests": 5
+}
